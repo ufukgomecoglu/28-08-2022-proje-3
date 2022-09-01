@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje-3.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje_3.Properties.Resources.resources
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje_3.UniFakBol.resources
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje-3.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje-3.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\bin\Debug\Proje-3.exe.config
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\bin\Debug\Proje-3.exe
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\bin\Debug\Proje-3.pdb
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\bin\Debug\DataAccsessLayer.dll
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\bin\Debug\DataAccsessLayer.pdb
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje-3.csproj.CopyComplete
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje-3.exe
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-3\Proje-3\obj\Debug\Proje-3.pdb
